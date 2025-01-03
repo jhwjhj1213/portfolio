@@ -1,0 +1,14 @@
+---
+:id: 109639661
+:submitters:
+- :name: Minkyung Jun
+  :email: m2jun@ucsd.edu
+- :name: Haewon Jung
+  :email: h7jung@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-07 01:56:54.314929000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-06 17:56:54.314929000 Z
+:status: processed
+:score: 8.75
